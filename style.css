@@ -1,0 +1,17 @@
+.bg-red {
+  background-color: red;
+}
+
+.txt-white {
+  color: white;
+} 
+
+.border-black {
+  border: black solid 4px
+}
+
+/* .my-table {
+ color: white;
+ border: black solid 4px;
+ background-color: red; 
+} */
